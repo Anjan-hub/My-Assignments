@@ -26,3 +26,4 @@ function runTest(testType) {
 }
 launchBerowser("Chrome")
 runTest("sanity")
+
